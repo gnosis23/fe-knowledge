@@ -30,7 +30,8 @@ ES6 现在也是标配了吧，下文就不明确指出是否是 ES6 特性了�
 store: dispatch, subscribe, reducer
 
 ### 3.3 实现原理
-[从零开始实现一个简单的redux](https://juejin.im/post/5a1ebe3b51882575d42f2629)
+- [middleware](https://redux.js.org/advanced/middleware)
+- [从零开始实现一个简单的redux](https://juejin.im/post/5a1ebe3b51882575d42f2629)
 
 
 ## 4. Webpack
