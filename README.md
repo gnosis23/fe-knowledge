@@ -9,6 +9,8 @@ ES6 现在也是标配了吧，下文就不明确指出是否是 ES6 特性了�
 
 实现原理？
 
+### Generator
+
 ### Annotation
 比如 dva.js 里面的 `@connect`
 
