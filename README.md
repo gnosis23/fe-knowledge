@@ -16,9 +16,34 @@
 
 [阅读更多](/sections/common.md)
 
+## 模块
+
+* AMD, CMD
+* 动态加载
+
+**常见问题**
+
+* 常见的模块化标准 ？
+* Webpack动态加载代码的原理 ？
+
+阅读更多
+
+## 异步
+
+* Event Loop
+* Promise
+
+**常见问题**
+
+* 将一个回调式函数转换成 Promise 
+* Promise 中 .then 的第二参数与 .catch 有什么区别?
+
+阅读更多
 
 ## [util](/sections/util.md)
 
+* fetch,axios
+* 正则表达式
 
 [阅读更多](/sections/util.md)
 
