@@ -18,7 +18,7 @@
 
 ## [模块](/sections/module.md)
 
-* AMD, CMD
+* CommonJS, AMD, CMD
 * 动态加载
 
 **常见问题**
