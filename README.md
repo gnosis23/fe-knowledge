@@ -20,6 +20,7 @@
 
 * CommonJS, AMD, CMD
 * 动态加载模块原理
+* Babel.js 如何将 ES6 模块转换成 CommonJS
 
 **常见问题**
 
