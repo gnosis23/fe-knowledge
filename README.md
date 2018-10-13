@@ -16,7 +16,7 @@
 
 [阅读更多](/sections/common.md)
 
-## 模块
+## [模块](/sections/module.md)
 
 * AMD, CMD
 * 动态加载
@@ -26,7 +26,7 @@
 * 常见的模块化标准 ？
 * Webpack动态加载代码的原理 ？
 
-阅读更多
+[阅读更多](/sections/module.md)
 
 ## 异步
 
