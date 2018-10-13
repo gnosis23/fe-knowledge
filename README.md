@@ -19,12 +19,12 @@
 ## [模块](/sections/module.md)
 
 * CommonJS, AMD, CMD
-* 动态加载
+* 动态加载模块原理
 
 **常见问题**
 
 * 常见的模块化标准 ？
-* Webpack动态加载代码的原理 ？
+* Webpack dynamic import 代码的原理 ？
 
 [阅读更多](/sections/module.md)
 
